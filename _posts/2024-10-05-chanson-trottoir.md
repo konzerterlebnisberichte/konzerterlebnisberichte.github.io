@@ -3,7 +3,7 @@ layout: post
 title: "Chanson Trottoir in Köln"
 ---
 
-Das Konzert von Chanson Trottoir in Köln war wundervoll!
+Das Konzert von **Chanson Trottoir** in Köln war wundervoll!
 
 ![Vorband](/images/2024-10-05-chanson-trottoir/vorband.jpg)
 
@@ -11,7 +11,7 @@ Als Vorband wurde ein alter Gitarrist eingestellt, dessen Namen ich auf der Büh
 
 ![Chanson Trottoir](/images/2024-10-05-chanson-trottoir/chanson-trottoir.jpg)
 
-Chanson Trottoir waren wie erwartet richtig toll, es gab eine ziemliche Menge an Instrumenten, mit auch immer wieder wechselnden Musikern (Gitarre, Bass, Schlagzeug, Percussionzeugs, Gong, Quetschn, Klarinette, Trompete, Posaune etc.), die auch alle mal ihre Momente hatten, dazu den (französischen) Gesang und die einnehmende Bühnenpräsenz des Frontmanns. Die Stücke waren experimentell, haben sich Sachen getraut, es war nie eintönig. Man hat auch gemerkt, dass die Bandmitglieder harmonisieren... Das Publikum hat auch mitgemacht und getanzt, waren eher Ältere unterwegs. Und wunderbare Leute waren auch mit. Was will man mehr ;)
+**Chanson Trottoir** waren wie erwartet richtig toll, es gab eine ziemliche Menge an Instrumenten, mit auch immer wieder wechselnden Musikern (Gitarre, Bass, Schlagzeug, Percussionzeugs, Gong, Quetschn, Klarinette, Trompete, Posaune etc.), die auch alle mal ihre Momente hatten, dazu den (französischen) Gesang und die einnehmende Bühnenpräsenz des Frontmanns. Die Stücke waren experimentell, haben sich Sachen getraut, es war nie eintönig. Man hat auch gemerkt, dass die Bandmitglieder harmonisieren... Das Publikum hat auch mitgemacht und getanzt, waren eher Ältere unterwegs. Und wunderbare Leute waren auch mit. Was will man mehr ;)
 
 ![Gitarre](/images/2024-10-05-chanson-trottoir/gitarre.jpg)
 
