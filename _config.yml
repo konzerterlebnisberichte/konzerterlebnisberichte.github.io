@@ -1,3 +1,5 @@
 theme: minima
 title: Konzerterlebnisberichte
 description: Konzerterlebnisberichte für Hamburg und umzu!
+minima:
+skin: auto
