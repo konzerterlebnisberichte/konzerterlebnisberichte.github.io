@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kassa Overall in Bremen"
+title: "Girl Scout in Hamburg"
 ---
 
 Ich bin ja diesmal nach HH um *Girl Scout* [1] zu sehen, die ich in Bologna als Vorband von Alvvays sowohl erleben durfte sowie Mini-interviewen nach dem Konzert (sie standen vor dem Bierstand rum). Ich habe Sie über Mail angeschrieben, ob sie wohl ein Bier trinken wollen beim Hamburgkonzert, wurde aber dafür sträflich ignoriert. Diesen persönlichen Affront gesichtswahrend übergehend beschloss ich, meiner Liebe zur Musik den Vorrang vor dem verletzten Gefühl der Ehre zu geben, und trotzdem zum Konzert zu gehen.
