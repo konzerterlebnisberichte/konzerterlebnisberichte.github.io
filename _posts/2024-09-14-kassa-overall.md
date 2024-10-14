@@ -3,7 +3,7 @@ layout: post
 title: "Kassa Overall in Bremen"
 ---
 
-Kassa Overall war eine richtig schöne Konzert-Experience :)
+*Kassa Overall* war eine richtig schöne Konzert-Experience :)
 
 ![Kassa Overall](/images/2024-09-14-kassa-overall/kassa-overall.jpg)
 
