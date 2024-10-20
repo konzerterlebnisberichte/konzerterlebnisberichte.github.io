@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Lésions Graves in Bremen"
+---
+
+Gestern war ich in der Schaulust und war von der Musik dort angenehm überrascht!
+
+Zuerst gab es ein paar Stücke von **B.M. Kuczer**, der vor eineinhalb Jahren verstorben ist. Es gab davor eine Einführung des älteren Herren, der die Stücke dann auch "aufgeführt" hat. Anscheinend gab es mal ein Konzert mit Kuczer in der schwankhalle(?), welches dieser nach zwei Minuten abbrach, weil er seinen Krach nicht laut genug aufführen durfte. Die Intendanten der Aufführung gestern haben sich gegen ohrenbetäubende Lautstärke und stattdessen für 16 Lautsprecherpaare im Raum verteilt entschieden, um die verschiedenen Teile der Musik in verschiedenen räumlichen Konfigurationen spürbar zu machen. Ich habe mit einem Teilnehmer danach darüber geredet, laut ihm waren die räumlichen Konfigurationen wohl nicht vom Künstler selbst erschaffen, sondern von den Intendanten. Vor der Aufführung von Stücken sei es aber üblich, dass es ein Gespräch zwischen Künstler und Intendanten gibt, auf dieses klärende Gespräch konnten sie sich dabei wohl stützen.
+
+Zur Musik selbst: Es war Elektroakustik, ein Genre, das ich vorher auch nicht kannte. Mir scheint es der großkopferte Begriff für Ambient-Musik zu sein, die Stücke von Kuczer, die gespielt wurden, würde ich auf jeden Fall so einordnen. Es gab keinen Gesang, dafür diverse interessante Soundeffekte, die in verschiedenen Lautstärken und Rhythmen miteinander kombiniert wurden, um einen Klangteppich zu erzeugen. Ich habe gemerkt, dass ich mit meinen Gedanken immer wieder abgeschweift bin, und nur an einigen Stellen, bei besonders eindringlichen Soundeffekten, lauten Lautstärken oder Rhythmuswechseln wieder voll bei der Musik war. War aber auch kein schlechtes Erlebnis - Denken mit interessantem Soundtrack. Irgendwie war die Musik immer da.
+
+![Lésions Graves](/images/2024-10-19-lesions-graves/lesions-graves.jpg)
+
+Die zweite Band war **Lésions Graves**, weswegen ich eigentlich hingegangen bin, weil ich den Drummer kannte. Ich hatte davor die Musik der Band nicht angehört, war also ein Sprung ins kalte Wasser. Und ich muss sagen, ich war hin und weg! Es gab drei Gitarren und das Schlagzeug, wobei nur beim letzten Stück alle drei Gitarren eingesetzt wurden, davor immer nur zwei. Das Genre hieß "Minimal Metal", was ich als Genre auch nicht kenne. Nach einem einmaligen Hören würde ich sagen, dass Metal hier "minimalistisch" auf das "In Your Face"-Element reduziert ist … es gab auf jeden Fall einen Klangteppich, den man nicht mehr maximalisieren hätte können. Besonders beeindruckt hat mich das Schlagzeug, welches dreißig Minuten Dauereinsatz hatte. Der Schlagzeuger war nach dem Konzert schweißüberströmt, und das war überhaupt nicht verwunderlich. Alle Elemente des Schlagzeugs waren praktisch im Dauereinsatz, und in einer Geschwindigkeit, die man sonst vielleicht eher von kleinen Ausschnitten von Schlagzeugsolos kennt … bei solch einer Beanspruchung waren die zwei-drei Fehlschläge sehr verständlich.
+
+Die Gitarren waren auch hart im Einsatz und auch sehr virtuos gespielt, ich habe aber gemerkt, dass meine Aufmerksamkeit ihnen eher selten zuteilwurde. Hervorgestochen sind sie m.M.n. im Cover des Stücks *Evil Nigger* von **Julius Eastmann**, in dem sie einem die zwischen Horror, Ekel und Wut schwankenden Gefühle des Komponisten über seine Lebensumstände hörbar gemacht haben.
+
+Respekt vor diesem musikalischen Event!
