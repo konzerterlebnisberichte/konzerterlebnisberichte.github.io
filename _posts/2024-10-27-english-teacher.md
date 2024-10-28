@@ -30,7 +30,7 @@ Unfortunately, we arrived a bit too late for the concert when the **support act*
 
 ![English Teacher](/images/2024-10-27-english-teacher/english-teacher.jpeg)
 
-I saw them [back then] ({% post_url 2024-02-17-sprints %}) at the Molotow as the ‘support act’ for SPRINTS, and was already full of praise. My biggest wish was that they would develop more in the direction of Black Country, New Road, so that they could fill the gap left by them. And I have to say, the wish has come true!
+I saw them [back then]({% post_url 2024-02-17-sprints %}) at the Molotow as the ‘support act’ for SPRINTS, and was already full of praise. My biggest wish was that they would develop more in the direction of Black Country, New Road, so that they could fill the gap left by them. And I have to say, the wish has come true!
 
 Instrumentally, there was guitar, bass, drums, and a string instrument (cello?), and all at a very high level. The singer switched between singing, synthesiser and guitar. All the instruments had their moment in the spotlight, only the cello I could never really make out, I would have liked more of that.
 
