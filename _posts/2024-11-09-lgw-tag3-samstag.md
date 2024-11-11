@@ -41,7 +41,7 @@ The penultimate day is traditionally the most packed of the festival, and so it 
 The **Maurice Louca Quartet** played in the big hall, where I was primarily impressed by the dancers — more modern dance should be seen… It continued with **Frente Abierto feat. Israel Fernández & Lela Soto** in the Ronda, and then **Military Genius** in the EKKO, to which a festival acquaintance dragged me along. The band played with drums, saxophone, bass, guitar and, of course, the vocals of the bandleader, who sang in English about his personal traumas. The music was rock, with slight touches of dub and jazz, plus there was the endlessly cool performance of the lead dancer, which was also evident from the announcements. One of the fellow dancers summed it up as ‘soothing’, to which I would add a ‘cool’. The light show was great, I was most impressed by the red background light with a slight sidelight, with the singer's face bathed in white light, which looked almost greenish in context.
 
 ![Maurice Louca Quartet](/images/2024-11-09-lgw-tag3-samstag/maurice-louca-quartet.jpg)
-![Maurice Louca Quartet](/images/2024-11-09-lgw-tag3-samstag/maurice-louca-quartet.mp4)
+<video width="320" height="240" src="https://github.com/konzerterlebnisberichte/konzerterlebnisberichte.github.io/raw/refs/heads/main/images/2024-11-09-lgw-tag3-samstag/maurica-louca-quartet.mp4" controls>
 ![Frente Abierto feat. Israel Fernández & Lela Soto](/images/2024-11-09-lgw-tag3-samstag/frente-abierto.jpg)
 ![Military Genius](/images/2024-11-09-lgw-tag3-samstag/military-genius.jpg)
 
@@ -49,7 +49,8 @@ After a short detour to **Kevin Richard Martin & KMRU** in the Jacobikerk, I wen
 
 ![Kevin Richard Martin & KMRU](/images/2024-11-09-lgw-tag3-samstag/kevin-richard-martin-kmru.jpg)
 ![Luz luz luz!](/images/2024-11-09-lgw-tag3-samstag/luz-luz-luz.jpg)
-![Luz luz luz!](/images/2024-11-09-lgw-tag3-samstag/luz-luz-luz.mp4)
+<video width="320" height="240" src="https://github.com/konzerterlebnisberichte/konzerterlebnisberichte.github.io/raw/refs/heads/main/images/2024-11-09-lgw-tag3-samstag/luz-luz-luz.mp4" controls>
+</video> 
 
 Thereafter, it was back to Tivoli for **Haossa** at Pandora, a punk band from Istanbul consisting of drums, guitar and bass, who played straight punk and who I was able to instigate a mosh pit with, even after five unsuccessful attempts! At **Nadah El Shazly** at Hertz, there was a short breather before dancing at **Dj Anderson do Paraiso**. 
 
