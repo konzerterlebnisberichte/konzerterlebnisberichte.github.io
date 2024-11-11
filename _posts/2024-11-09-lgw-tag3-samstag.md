@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Le Guess Who in Utrecht - Tag 3: Samstag"
+---
+
 Der vorletzte Tag ist traditionell der vollgepackteste des Festivals, und so war es auch dieses Mal. Begonnen hat der Tag mit **Mabe Fratti ft. Shards** in der Ronda, wobei Mabe Fratti mit Schlagzeuger und Gitarrist unterwegs war, während sie im Gesang von den **Shards** unterstützt wurde, einem Chor aus London. Mabe Fratti hat als Instrument einerseits ihre Stimme, die uns einfühlsam und gleichzeitig bestimmt auf Spanisch etwas vorgesungen hat - meine Sprachkenntnisse erlaubten mir leider keinen Einblick in die Inhalte. Unterstützt wurde das ganze von ihrem Cello sowie von dem Schlagzeug und der Gitarre, die für sich Gelegenheit zum Scheinen hatten, jedoch auch das Storytelling ergänzten - an einer Stelle durften sie einen Sturm darstellen, der von Mabe Frattis „fuera(?)“ unterbrochen wurde, was, wenn ich es denn richtig gehört habe, „draußen“ bedeutet - passen würds. Der Chor unterstützte die Stimme der Sängerin und sorgte für das von mir heiß geliebte Stimmengewebe. Mabe Fratti ist in jeder Kombination ein Erlebnis (letztes Jahr(?) in der Jakobikerk).
 
 ![Mabe Fratti ft. Shards](/images/2024-11-09-lgw-tag3-samstag/mabe-fratti-featuring-shards.jpg)
