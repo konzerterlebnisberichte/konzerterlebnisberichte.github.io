@@ -12,9 +12,7 @@ Das **Maurice Louca Quartet** spielte im großen Saal, wobei mich primär die T�
 
 ![Maurice Louca Quartet](/images/2024-11-09-lgw-tag3-samstag/maurice-louca-quartet.jpg)
 ![Maurice Louca Quartet](/images/2024-11-09-lgw-tag3-samstag/maurice-louca-quartet.mp4)
-<video controls>
-  <source src="https://github.com/konzerterlebnisberichte/konzerterlebnisberichte.github.io/raw/refs/heads/main/images/2024-11-09-lgw-tag3-samstag/maurica-louca-quartet.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<video src="https://github.com/konzerterlebnisberichte/konzerterlebnisberichte.github.io/raw/refs/heads/main/images/2024-11-09-lgw-tag3-samstag/maurica-louca-quartet.mp4" controls>
 </video> 
 ![Frente Abierto feat. Israel Fernández & Lela Soto](/images/2024-11-09-lgw-tag3-samstag/frente-abierto.jpg)
 ![Military Genius](/images/2024-11-09-lgw-tag3-samstag/military-genius.jpg)
@@ -23,9 +21,7 @@ Nach einem kurzen Abstecher zu **Kevin Richard Martin & KMRU** in die Jacobikerk
 
 ![Kevin Richard Martin & KMRU](/images/2024-11-09-lgw-tag3-samstag/kevin-richard-martin-kmru.jpg)
 ![Luz luz luz!](/images/2024-11-09-lgw-tag3-samstag/luz-luz-luz.jpg)
-<video controls>
-  <source src="https://github.com/konzerterlebnisberichte/konzerterlebnisberichte.github.io/raw/refs/heads/main/images/2024-11-09-lgw-tag3-samstag/luz-luz-luz.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<video src="https://github.com/konzerterlebnisberichte/konzerterlebnisberichte.github.io/raw/refs/heads/main/images/2024-11-09-lgw-tag3-samstag/luz-luz-luz.mp4" controls>
 </video> 
 
 
