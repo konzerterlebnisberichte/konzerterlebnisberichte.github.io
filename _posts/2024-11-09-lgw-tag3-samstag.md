@@ -12,6 +12,10 @@ Das **Maurice Louca Quartet** spielte im großen Saal, wobei mich primär die T�
 
 ![Maurice Louca Quartet](/images/2024-11-09-lgw-tag3-samstag/maurice-louca-quartet.jpg)
 ![Maurice Louca Quartet](/images/2024-11-09-lgw-tag3-samstag/maurice-louca-quartet.mp4)
+<video controls>
+  <source src="https://github.com/konzerterlebnisberichte/konzerterlebnisberichte.github.io/raw/refs/heads/main/images/2024-11-09-lgw-tag3-samstag/maurica-louca-quartet.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
 ![Frente Abierto feat. Israel Fernández & Lela Soto](/images/2024-11-09-lgw-tag3-samstag/frente-abierto.jpg)
 ![Military Genius](/images/2024-11-09-lgw-tag3-samstag/military-genius.jpg)
 
@@ -19,7 +23,11 @@ Nach einem kurzen Abstecher zu **Kevin Richard Martin & KMRU** in die Jacobikerk
 
 ![Kevin Richard Martin & KMRU](/images/2024-11-09-lgw-tag3-samstag/kevin-richard-martin-kmru.jpg)
 ![Luz luz luz!](/images/2024-11-09-lgw-tag3-samstag/luz-luz-luz.jpg)
-![Luz luz luz!](/images/2024-11-09-lgw-tag3-samstag/luz-luz-luz.mp4)
+<video controls>
+  <source src="https://github.com/konzerterlebnisberichte/konzerterlebnisberichte.github.io/raw/refs/heads/main/images/2024-11-09-lgw-tag3-samstag/luz-luz-luz.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
 
 Anschließend ging es zurück ins Tivoli zu **Haossa** im Pandora, einer Punkband aus Istanbul bestehend aus Schlagzeug, Gitarre und Bass, die straight Punk gemacht haben und zu denen ich auch nach fünf erfolglosen Versuchen einen Moshpit instigieren konnte! Bei **Nadah El Shazly** im Hertz gab es eine kurze Verschnaufpause, bevor bei **Dj Anderson do Paraiso** getanzt wurde.
 
