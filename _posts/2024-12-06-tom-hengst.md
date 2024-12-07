@@ -23,9 +23,9 @@ P.S.: Reeperbahnfestival und jetzt die Weihnachtsfeier von Tom Hengst – schon 
 
 Es gibt dieses Mal nur drei Fotos, weil ich leider meine Umhängetasche vergessen habe und daher mein Handy lieber bei der Garderobe abgegeben habe, bevor ich im Moshpit verschwunden bin …
 
-![Tom Hengst](/images/2024-12-07-tom-hengst/tom-hengst.jpg)
-![Ramzey](/images/2024-12-07-tom-hengst/ramzey.jpg)
-![Polarise](/images/2024-12-07-tom-hengst/polarise.jpg)
+![Tom Hengst](/images/2024-12-06-tom-hengst/tom-hengst.jpg)
+![Ramzey](/images/2024-12-06-tom-hengst/ramzey.jpg)
+![Polarise](/images/2024-12-06-tom-hengst/polarise.jpg)
 
 ---
 
@@ -49,6 +49,6 @@ P.S.: Reeperbahn Festival and now Tom Hengst's Christmas party – two events in
 
 There are only three photos this time because, unfortunately, I forgot my shoulder bag and therefore preferred to hand in my mobile phone at the cloakroom before I disappeared into the mosh pit…
 
-![Tom Hengst](/images/2024-12-07-tom-hengst/tom-hengst.jpg)
-![Ramzey](/images/2024-12-07-tom-hengst/ramzey.jpg)
-![Polarise](/images/2024-12-07-tom-hengst/polarise.jpg)
+![Tom Hengst](/images/2024-12-06-tom-hengst/tom-hengst.jpg)
+![Ramzey](/images/2024-12-06-tom-hengst/ramzey.jpg)
+![Polarise](/images/2024-12-06-tom-hengst/polarise.jpg)
