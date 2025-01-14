@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sophie Weidemann in Bremen"
+title: "Sophia Weidemann in Bremen"
 ---
 
 Ich wollte ja eigentlich kein Review für das Konzert schreiben, weil ich mich bei Klassik null auskenne und mich da garantiert nur blamieren kann. Daher gibt es auch keine Fotos … Ein paar Beobachtungen muss ich aber wohl doch loslassen.
