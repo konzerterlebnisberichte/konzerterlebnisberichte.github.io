@@ -13,7 +13,7 @@ Das Konzert selber changierte zwischen hervorragend und in Ordnung, mir haben be
 
 Schön war außerdem der unterkühlte Witz der Ansagen, die Bekanntmachung mit dem uraustralischen Brauch des hochsommerhitzebekämpfenden Venitlatorengesangs (hört sich einfach leicht abgehackt an - man musste wohl dabei sein) sowie die Lichtreflexionen an der Glockendecke der zwischenzeitlich eingesatzen Plastikbodenbedeckung.
 
-Am Ende gab es noch Standing Ovations, welche sich mit den zwei Zugaben zu einem Heilige-Messe-würdigem Oszillieren zwischen Aufstehen und Hinsetzen hochschaukelte.
+Am Ende gab es noch Standing Ovations, welche sich mit den zwei Zugaben zu einem Heilige-Messe-würdigem Oszillieren zwischen Stehen und Sitzen hochschaukelte.
 
 ----
 
