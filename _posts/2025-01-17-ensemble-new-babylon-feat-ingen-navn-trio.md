@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ensemble New Babylon featuring Ingen Navn Trio"
+title: "Ensemble New Babylon featuring Ingen Navn Trio in Bremen"
 ---
 
 Ins Tabakquartier für ein Konzert fahren, fühlt sich schlimmer an, als nach Hamburg für ein Konzert fahren – die Reise mag wohl etwas weniger beschwerlich sein, dafür kommt man am Ende in einer Gegend an, die auf definitive Weise und ohne dass irgendjemand ernsthaft an einer Antwort interessiert gewesen wäre, die Frage beantwortet, wie man der Überseestadt noch jeden letzten Rest an Seele rauben kann. Und dann hat noch nicht mal das Kartenlesegerät funktioniert …
