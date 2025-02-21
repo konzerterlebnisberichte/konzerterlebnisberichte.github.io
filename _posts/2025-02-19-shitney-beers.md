@@ -13,6 +13,8 @@ Zwischen den Bands musste ich aufs Klo und durfte vom Fernen beobachten, dass di
 
 ![Shitney Beers](/images/2025-02-19-shitney-beers/shitney-beers-2.jpg)
 
+**Shitney Beers** kamen etwas unterbesetzt (ein Gitarrist fehlte) und mit ausgewechseltem Bassisten, weil eine Krankheit umging. Dabei waren Synthesizer/Keys, Gitarre, Schlagzeug, Bass. Die Sängerin hat neben der Gitarre noch Banjo gespielt. Die Musik war geprägt von meiner Meinung nach sehr übertrieben scheuen (die Band tourt seit 2018 durch die Republik …) Durchsagen, traurigen Texten, die sich um Depression, Selbsthass, Gender-Nonkonformität und andere Themen der spätkapitalistischen Selbstbespiegelung drehten. Die Musik war gut, der_die Drummer im Speziellen, aber die Texte haben mich nicht so abgeholt. Schön war das Gefühl von geteiltem Leid zwischen Publikum und Band, die laut Eigenaussage die letzte Tour drehen - danach geht es für die Sängerin ins Vulkanologiestudium. Schön war auch der Fakt, dass meine beiden Mitbesucher sich immer mehr in die Arme fielen und eng umschlungen getanzt haben. :)
+
 Jedes Mal, wenn ich ein Review schreibe, muss ich an Jakob denken, der mir sagte, dass er die am liebsten liest, wenn ich sehr begeistert von einem Konzert war. Das war ich hier tatsächlich nicht. Ich schreibe dass aber, um meine Erlebnisse wiederzugeben, und dass muss auch nicht begeistert gewesen sein. Konzerte sind auch schön, wenn sie einen nicht vom Hocker reißen, und sich in der Musik zu verlieren muss nicht immer Ekstase heißen. Eine andere Welt muss nicht supertollrichtiggeil sein, damit man sie betreten will.
 
 ---
