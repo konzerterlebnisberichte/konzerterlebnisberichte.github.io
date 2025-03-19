@@ -11,7 +11,7 @@ layout: base
 
 
   {% if site.paginate %}
-    {% assign posts = paginator.posts %}
+    {% assign posts = paginator.posts limit:5 %}
   {% else %}
     {% assign posts = site.posts limit:5 %}
   {% endif %}
