@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Endless Wellness in Hamburg und Hannovr"
+title: "Endless Wellness in Hamburg und Hannover"
 ---
 
 Mein Leben ist ja oft ziemlich durchgeplant und getaktet, aber mitunter klopft Kismet an die Tür und legt ein goldenes Ei in das willige Substrat meiner Aspirationen. So geschehen diesen Dienstag in Hamburg bei der Finkenwerder Landungsbrücke, an der ich durch Zufall dem ältesten [Hamburger Vierstimmenmännerchor](https://www.besser-im-blick.de/nachrichten/life/13385-jahreshauptversammlung-der-harmonie-mit-grossem-optimismus-ins-neue-jahr) von Deutschland beim Proben zuhorchen durfte, und über die Aufregung glatt meinen Rucksack vergessen habe. Der musste dann am Donnerstag zurückgeholt werden, und wenn dann zufällig noch die Abendbeschäftigung wegbricht, bleibt man doch da und hört sich **Endless Wellness** (das letzte Mal gesehen beim [Reeperbahnfestival]({% post_url 2024-09-21-reeperbahn-festival %})) an, für die man eigentlich Tickets am nächsten Abend in Hannover gekauft hat (wegen der sonstigen Abendbeschäftigung). So kommt es dann, dass man dasselbe Konzert zweimal hintereinander bewundern darf.
