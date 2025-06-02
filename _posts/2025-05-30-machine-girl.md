@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Machine Girl in İstanbul"
+---
+
 İstanbul ist eine wundervolle Stadt mit vielen beeindruckenden alten Gemäuern, schönen Panoramen und einem reichhaltigen kulinarischen Angebot, doch ich muss zugeben, dass meine vorfreudigen Gedanken sich vor allem um ein Konzerterlebnis in dieser ein großes Stück weit stärker von religiöser Frommheit bestimmten Kultur drehten als um den ganzen Rest. Weswegen ich mich nach kurzer Onlinerecherche zum Kauf von Tickets für das **Machine Girl**-Konzert im Blind entschied. Zuerst war ich angesichts des [middling Pitchforkreviews](https://pitchfork.com/reviews/albums/machine-girl-mg-ultra/) noch etwas zurückhaltend, doch da der Hauptvorwurf dort die fehlende Weiterentwicklung war (was ja über die Musik an sich nichts aussagt) und [Youtube](https://youtu.be/CxTp0q4vevs?t=343) vollen Sängereinsatz zeigte, war ich überzeugt.
 
 ![Blind](/images/2025-05-30-machine-girl/blind.jpg)
