@@ -1,0 +1,20 @@
+---
+layout: post
+title: "The Hard Quartet in Hamburg"
+---
+
+Diesen Montag war es endlich wieder einmal Zeit für ein waschechtes pitchforkinspiriertes Konzert in Hamburg, nachdem in den letzten Monaten entweder der Urlaub oder generell das Leben den langerhand vorhergeplanten Terminen hierfür im Wege standen (was natürlich nicht heißt, dass es keine Konzertbesuche gab!).
+
+Als Vorgruppe der dieswöchentlichen Konzertbespaßung betrat **Dragged Up** die Bühne. Zweimal Gitarre, Bass und Schlagzeug wurden hier von die Mitte ihres Lebens wohl schon überschritten habenden Künstlern für den musikalischen Genuss des Publikums bedient, und damit auch schon das Thema des Abends gesetzt - hier waren keine jungen, nach dem großen Durchbruch hungrigen Musiker zu sehen, die den Zenit ihrer Karriere entweder schon überschritten hatten (wie bei dem Hauptact des Abends) oder, wie bei Dragged Up, wohl auch nicht mehr darauf hofften. Klassischer Rock dominierte dabei das Geschehen, wobei die mit Erfahrung am Instrument und am Performen wohl unweigerlich sich einschleichende Schwäche für das eine oder andere mehr artistisch angehauchte Zwischenspiel nicht zu kurz kam. 
+
+Bei Dragged Up war das sichtbar an der reservierten Attitüde und den wortkargen Ansagen sowie an der Aufmachung (einzig der Bassist ließ erahnen, dass hier beim Griff zu den Kleidungsstücken etwas anderes als die nackte Notwendigkeit im Spiel war) sowie vor allem an diesem Ausdruck der vollkommenen Weltmüdigkeit der zweiten Gitarristin. Nun ist die Ermittlung eines Gemütszustandes aus dem Zuschauerraum beileibe keine exakte Wissenschaft, und zur zutreffenden Ermittlung von Gründen desselben wurde noch kein anderes Mittel als das Gespräch erfunden - doch als ich in diese besiegten Augen und die regungslosen Mundwinkel blickte, überfiel mich der Eindruck, als wäre Auftreten hier mittlerweile mehr eine notwendige Begleiterscheinung dazu, Musik als therapeutisches Instrument zu benutzen.
+
+Zu den treibenden Songs, die oft vom ersten Gitarristen gesungen wurden, gab es dazu passend auch noch ein paar von der zweiten Gitarristin gesungenen, die eher düster und depressiv waren. Insgesamt aber eine musikalische Darbietung, die sich gelohnt hat, und als Vorband wie gewohnt viel zu wenig Aufmerksamkeit bekam.
+
+Die Hauptgruppe waren dann **The Hard Quartet**, die mir beim abarbeiten der Best-Of-Liste von Pitchfork vor allem dadurch aufgefallen sind, dass es hier erfrischenderweise straighten Klassikrock zu hören gab anstatt des Post-Post-Post-Irgendwas der sonst mittlerweile im Angebot ist. Da meine Ohren ihre ersten Übungen in der Notenwahrnehmung mithilfe der CD-Sammlung meines Dads absolvieren durften, in der The Beatles, Pink Floyd, AC/DC, The Who, U2 und wie sie alle heißen sehr prominent figurierten, waren sie darüber hocherfreut.
+
+Auch hier gab es zweimal Gitarre, Bass und Schlagzeug, wobei die Basspflichten rotierten, was zu einigem Instrumentehinundherreichen zwischen den Stücken führte. Der Frontmann war mal Vortänzer von Pavement und hatte hier schon auch die größere Rolle - doch die Bassweitergabe war nicht nur Gimmick, es gab durchaus auch Songs die von den anderen beiden gesungen wurden. Besonders Emmett Kelly wirke auch teilweise nicht wirklich neidisch, aber vermittelte doch das Gefühl, dass er etwas mehr Rampenlicht auch ganz gerne hätte - fand den Song, den er gesungen hat, dann auch sehr emotional gesungen, aber inhaltlich nicht wirklich viele Spuren hinterlassend.
+
+Die obligatorische Anti-Trump-Ansage (Shit-Stained-Banner) kam beim Publikum gut an, dass der Musik gemäß eher alt und, man hats ja mittlerweile, wohlhabend-elegant gekleidet war. Auffallend viele mittelalte Pärchen waren zu blicken, Klassikrock ist ja auch eine der großen Überschneidungsflächen der modernen Musikgeschmäcker.
+
+Habe ich schonmal erwähnt, dass auf Konzerte gehen in Hamburg eine Freude ist?
