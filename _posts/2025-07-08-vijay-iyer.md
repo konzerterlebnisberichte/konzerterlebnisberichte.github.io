@@ -3,7 +3,9 @@ layout: post
 title: "Vijay Iyer Trio in Hamburg"
 ---
 
-Ich bin ja nicht gerade ein großer Kenner der modernen Jazzszene, aber als Pitchfork vor Kurzem das [Kollaborationsalbum von Vijay Iyer und Wadada Leo Smith namens "Defiant Life"](https://pitchfork.com/reviews/albums/vijay-iyer-wadada-leo-smith-defiant-life/) rezensiert hat, hörte ich, wie ich das so mache, rein, und meine Ohren waren erfreut. Als also der flugs eingerichtete Songkickalarm für den lieben Iyer ausgeschlagen hat, noch dazu in einer Konzertlocation, in der ich noch nie war, und ich ihn leider auf dem Moers verpassen musste, hab’ ich mir ein Ticket gekauft – auch wenn das 60 € kostete. 
+Ich bin ja nicht gerade ein großer Kenner der modernen Jazzszene, aber als Pitchfork vor Kurzem das [Kollaborationsalbum von Vijay Iyer und Wadada Leo Smith namens "Defiant Life"](https://pitchfork.com/reviews/albums/vijay-iyer-wadada-leo-smith-defiant-life/) rezensiert hat, hörte ich, wie ich das so mache, rein, und meine Ohren waren erfreut. Als also der flugs eingerichtete Songkickalarm für den lieben Iyer ausgeschlagen hat, noch dazu in einer Konzertlocation, in der ich noch nie war, und ich ihn leider auf dem Moers verpassen musste, hab’ ich mir ein Ticket gekauft – auch wenn das 60 € kostete.
+
+![Vijay Iyer Trio](/images/2025-07-08-vijay-iyer/vijay-iyer-trio.jpg)
 
 Vijay Iyer war (bedauerlicherweise?) gar nicht mit Wadada Leo Smith zu sehen, sondern mit Bass und Schlagzeug als **Vijay Iyer Trio**. Das alles fand im Nica Jazz Klub statt, dessen komplette Programmierung auf Repräsentation der Hamburger Oberschicht (am Rathausmarkt am Wasser, mit schnieker und seelenloser Inneneinrichtung, mit sehr altem und wahrscheinlich auch sehr wohlhabendem Publikum in sehr gediegener Kleidung, natürlich als Sitzkonzert) nur durch ein paar, der erst sehr kurzen Inhabitationsdauer geschuldeten, Schönheitsfehler gebrochen wurde – das mit Edding beschriebene Paketklebeband als Geschlechtsanzeiger der Toiletten, um das prägnanteste Beispiel zu nennen.
 
